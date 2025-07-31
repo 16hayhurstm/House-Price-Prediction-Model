@@ -1,8 +1,8 @@
 ## Project Introduction
 
-As part of my journey toward becoming a Bioinformatician/Data Scientist, I undertook this self-guided project to build a UK house price prediction model. My goal was to explore a real-world dataset, gain hands-on experience with machine learning, and understand the end-to-end process of developing, testing, and refining predictive models.
+As part of my journey toward becoming a Bioinformatician/Data Scientist, I undertook this self-guided project to build a UK house price prediction model. My goal was to explore a real world dataset, gain hands-on experience with machine learning algorithms, and understand the process of developing, testing, and refining a models.
 
-I used a pre-processed version of the UK Government’s Price Paid Data, made available for research via Kaggle. I chose this dataset because it was uniquely different from many others available — it focused more on categorical variables such as property type, town, new build status, and leasehold/freehold classification, rather than typical numerical features like square footage or number of bedrooms. This made the project more challenging and interesting, and pushed me to learn how to work effectively with non-numeric data.
+I used a preprocessed version of the UK Government’s Price Paid Data, made available for research via Kaggle. I chose this dataset because it was uniquely different from many others available. It focused more on categorical variables such as property type, town, new build status, and leasehold/freehold classification, rather than typical numerical features like square footage or number of bedrooms. This made the project more challenging and interesting, and pushed me to learn how to work effectively with non-numeric data.
 
 The dataset contains 90,000 randomly sampled records spanning from 1995 to 2024.  
 Dataset link: [Kaggle – UK House Price Prediction Dataset](https://www.kaggle.com/datasets/swarupsudulaganti/uk-house-price-prediction-dataset-2015-to-2024)
