@@ -15,7 +15,7 @@ Throughout this project, I worked with libraries and tools such as:
 
 Despite having little prior experience with these packages, this project gave me the opportunity to build confidence and apply machine learning techniques to a real-world problem.
 
-## Key Results (Test Set, £)
+## Key Results 
 **Before feature pruning**
 - MSE: 220,864,138  
 - MAE: 3,121.74  
