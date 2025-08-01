@@ -1,6 +1,6 @@
 ## Project Introduction
 
-As part of my journey toward becoming a Bioinformatician/Data Scientist, I undertook this self-guided project to build a UK house price prediction model. My goal was to explore a real world dataset, gain hands-on experience with machine learning algorithms, and understand the process of developing, testing, and refining a models.
+As part of my journey toward becoming a Bioinformatician/Data Scientist, I undertook this self guided project to build a UK house price prediction model. My goal was to explore a real world dataset, gain hands on experience with machine learning algorithms, and understand the process of developing, testing, and refining a models.
 
 I used a preprocessed version of the UK Government’s Price Paid Data, made available for research via Kaggle. I chose this dataset because it was uniquely different from many others available. It focused more on categorical variables such as property type, town, new build status, and leasehold/freehold classification, rather than typical numerical features like square footage or number of bedrooms. This made the project more challenging and interesting, and pushed me to learn how to work effectively with non-numeric data.
 
@@ -13,7 +13,7 @@ Throughout this project, I worked with libraries and tools such as:
 - `matplotlib` for visualizations
 - `scikit-learn` for model training, evaluation, and feature engineering
 
-Despite having little prior experience with these packages, this project gave me the opportunity to build confidence and apply machine learning techniques to a real-world problem.
+Despite having little prior experience with these packages, this project gave me the opportunity to build confidence and apply machine learning techniques to a real world problem.
 
 ## Key Results 
 **Before feature pruning**
